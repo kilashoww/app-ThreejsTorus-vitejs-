@@ -1,5 +1,6 @@
 # app-ThreejsTorus-vitejs-
-Threejs drawing test
+
+Threejs torus drawing test for website page inclusions.
 
 
 # THREE JS Thorus test with VITE JS
