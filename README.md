@@ -1,10 +1,6 @@
-# app-ThreejsTorus-vitejs-
-
-Threejs torus drawing test for website page inclusions.
-
-
 # THREE JS Thorus test with VITE JS
 
+Threejs torus drawing test for website page inclusions.
 Three JS doesn't work when import modules into JS code, so VITE JS is needed to make it works fine.
 
 ## Table of contents
