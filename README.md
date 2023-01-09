@@ -2,7 +2,7 @@
 Threejs drawing test
 
 
-# Three JS Thorus test with https://vitejs.dev 
+# THREE JS Thorus test with VITE JS
 
 Three JS doesn't work when import modules into JS code, so VITE JS is needed to make it works fine.
 
